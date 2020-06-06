@@ -1,0 +1,24 @@
+/**Write your CSS style **/
+.property{
+    color:#66D9EF;
+}
+
+.json-literal-numeric{
+    color:#F5B041;
+}
+
+.json-literal-url {
+    color: #34a632;
+}
+
+.json-literal-string{
+    color: #66D9EF;
+}
+
+.json-literal{
+    color:#FD971F;
+}
+
+.json-literal-boolean{
+    color: #AE81FF;
+}

@@ -1,0 +1,17 @@
+{
+    "compilerOptions" : {
+        "module"    : "commonjs",
+        "target"    : "es5",
+        "sourceMap" : true,
+        "sourceRoot" : "src",
+        "outDir" : "build",
+        "allowSyntheticDefaultImports" : true,
+        "esModuleInterop" : true,
+        "noImplicitAny" : true,
+        "strict" : true
+    },
+    "include" : ["src"],
+    "exclude"         : [
+        "node_modules", "build", "src/**/*.test.ts"
+    ]
+}
