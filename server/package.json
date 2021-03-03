@@ -42,7 +42,7 @@
         "moment": "^2.26.0",
         "mongoose": "^5.9.16",
         "morgan": "^1.10.0",
-        "pug": "^3.0.0",
+        "pug": "^3.0.1",
         "shortid": "^2.2.15",
         "supports-color": "^7.1.0",
         "winston": "^3.2.1",
